@@ -1,0 +1,2 @@
+$ gcc `/usr/local/bin/python-config --cflags` `/usr/local/bin/python-config --ldflags`  call_function.c
+$ ./a.out py_function multiply
